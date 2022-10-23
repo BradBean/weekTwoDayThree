@@ -5,7 +5,7 @@ html {
 }
 
 nav {
-	background-color: black;
+	background-color: black
 }
 
 header{
@@ -27,7 +27,7 @@ li a {
 }
 
 .nav__links li a:hover {
-color: #0088a9;
+color: #0088a9
 }
 
 .website-text-header{
